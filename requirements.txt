@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+yfinance
+scikit-learn
+tensorflow
+
+for Installing the libraries:
+   "pip install streamlit pandas numpy tensorflow matplotlib scikit-learn yfinance"
