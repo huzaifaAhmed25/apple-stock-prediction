@@ -7,4 +7,15 @@ scikit-learn
 tensorflow
 
 for Installing the libraries:
-   "pip install streamlit pandas numpy tensorflow matplotlib scikit-learn yfinance"
+   " pip install streamlit pandas numpy tensorflow matplotlib scikit-learn yfinance "
+
+for running:
+step 1: download the stock_app.py file, or APPL.csv file
+step 2: make the project folder
+step 3:paste these files which you downloaded.
+step 4:After installing the libraries in terminal:
+step 5: Go to your project folder
+step 6: click cmd on the project file path
+step 7: write this line " streamlit run stock_app.py "
+
+Your project will show on the browser
